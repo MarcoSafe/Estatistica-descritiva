@@ -1,4 +1,4 @@
-# Utilizando a estatística descritiva para visualizar e comparar distribuições de frequência
+# Utilizando Estatística Descritiva para visualizar e comparar distribuições de frequência
 
 A estatística descritiva fornece resumos simples sobre amostras e sobre obervações feitas. Tais resumos podem ser quantitativos, como estatísticas resumo, ou visuais, como gráficos. Estas medidas resumo podem formar a base para a descrição inicial dos dados, como parte de um processo mais extensivo de análise estatística, ou podem ser suficientes para alguns tipos de investigações.
 Por exemplo, a porcentagem de arremessos em um jogo de basquete é uma estatística descritiva que resume a performance de um jogador ou de uma equipe. Este número é o número de arremessos feitos, dividido pelo número de total de arremessos do jogo. Por exemplo, um jogador que arremessa 33% das vezes está em média realizando 1 em cada 3 arremessos. A porcentagem descreve multiplos eventos discretos. 
